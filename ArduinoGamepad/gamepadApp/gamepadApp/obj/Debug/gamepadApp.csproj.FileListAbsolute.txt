@@ -1,0 +1,9 @@
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\bin\Debug\gamepadApp.exe.config
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\bin\Debug\gamepadApp.exe
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\bin\Debug\gamepadApp.pdb
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.csprojResolveAssemblyReference.cache
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.mainForm.resources
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.Properties.Resources.resources
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.csproj.GenerateResource.Cache
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.exe
+E:\Google disk\Arduino\gamepad\gamepadApp\gamepadApp\obj\Debug\gamepadApp.pdb

@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+E:\Google disk\Arduino\mroBot\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1557341879.index
+115338313.index
+1983631466.index
+1284074322.index
+3969616406.index
+1100925898.index

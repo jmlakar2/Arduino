@@ -1,0 +1,12 @@
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\bin\Debug\termostatApp.exe.config
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\bin\Debug\termostatApp.exe
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\bin\Debug\termostatApp.pdb
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.FrmTerm.resources
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.Properties.Resources.resources
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.csproj.GenerateResource.Cache
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.exe
+C:\Users\Josip\Desktop\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.pdb
+E:\Google disk\Arduino\igranka\serialTemp\termostatApp\termostatApp\bin\Debug\termostatApp.exe.config
+E:\Google disk\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.exe
+E:\Google disk\Arduino\igranka\serialTemp\termostatApp\termostatApp\obj\Debug\termostatApp.pdb

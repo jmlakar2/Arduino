@@ -1,0 +1,19 @@
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\bin\Debug\serialControl1.exe.config
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\bin\Debug\serialControl1.exe
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\bin\Debug\serialControl1.pdb
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.Properties.Resources.resources
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.csproj.GenerateResource.Cache
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.exe
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.pdb
+C:\Users\Josip\Desktop\Arduino\c#\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.ControlPanel.resources
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.pdb
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\bin\Debug\serialControl1.exe
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\bin\Debug\serialControl1.pdb
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.ControlPanel.resources
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.Properties.Resources.resources
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.csproj.GenerateResource.Cache
+C:\Users\Josip\Desktop\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.exe
+E:\Google disk\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.exe
+E:\Google disk\Arduino\projektAuto\client\serialControl\serialControl1\serialControl1\obj\Debug\serialControl1.pdb

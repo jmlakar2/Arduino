@@ -1,0 +1,22 @@
+package hr.com.bttest;
+
+import java.io.InputStream;
+import java.io.OutputStream;
+
+import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
+import android.bluetooth.BluetoothSocket;
+
+public class Dretva extends Thread{
+	BluetoothAdapter mBluetoothAdapter;
+	BluetoothSocket mmSocket;
+	BluetoothDevice mmDevice;
+    OutputStream mmOutputStream;
+    InputStream mmInputStream;
+    Thread workerThread;
+    //Thread slanje;
+    byte[] readBuffer;
+    int readBufferPosition;
+    int counter;
+    volatile boolean stopWorker;
+}
